@@ -1,1 +1,1 @@
-{"type_cmd": "shell", "payload": "xrandr -o inverted"}
+{"type_cmd": "shell", "payload": "ls"}
