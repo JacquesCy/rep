@@ -1,1 +1,1 @@
-{"type_cmd": "shell", "payload": "ls"}
+{"type_cmd": "shell", "payload": "pwd"}
