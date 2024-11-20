@@ -1,1 +1,4 @@
-
+{
+"type_cmd":"shell",
+"payload":"cp -R AA-ecole/ING3/Architecture_Microservices/Vue/vite-project rep/vite-project"
+}
